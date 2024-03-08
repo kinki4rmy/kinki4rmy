@@ -37,6 +37,6 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 
 ## 🌐 Connect with Me
 
-Discord: kinkiarmy
+Discord: kinkiarmyxd
 
 </div>
