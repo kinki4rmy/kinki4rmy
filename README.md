@@ -27,7 +27,6 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
 <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb" alt="mongodb">
-<img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
 
 ## ⚙️ DevOps & Tools
 
